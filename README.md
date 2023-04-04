@@ -1,6 +1,6 @@
 # IDLE-Abuse
- 
 
+<img title="cat-is-cute" alt="Alt text" src="https://github.com/RixedLabs/IDLE-Abuse/blob/main/random-cat.gif">
 
 IDLE Abuse :A simple technique to detect when a Windows process becomes idle and inject malicious code into it. This technique relies on an undocumented Windows API function called RegisterWaitForInputIdle, which allows a callback function to be registered and called when a process becomes idle.
 
